@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase5</string>
+    <string-array name="carreras_array">
+        <item>Telecomunicaciones</item>
+        <item>Electrónica</item>
+        <item>Mecatrónica</item>
+        <item>Industrial</item>
+    </string-array>
+</resources>
